@@ -1,5 +1,7 @@
 # Leanware Project
 
+[![Join the chat at https://gitter.im/kmaooad18/assignment-w7](https://badges.gitter.im/kmaooad18/assignment-w7.svg)](https://gitter.im/kmaooad18/assignment-w7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This week's assignment continues the preious one and adds several use cases.
 
 ## Feature and story status
